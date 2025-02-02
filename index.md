@@ -1,6 +1,8 @@
 ---
 title: Scratch Movie Development
 ---
+**[Topic](https://scratch.mit.edu/discuss/topic/797462) | [Old Topic](https://scratch.mit.edu/discuss/topic/780011/) | [Studio](https://scratch.mit.edu/studios/35850607/)**
+
 You can view the script [here](script) (WORK IN PROGRESS)
 
 1. brainstorm - started
